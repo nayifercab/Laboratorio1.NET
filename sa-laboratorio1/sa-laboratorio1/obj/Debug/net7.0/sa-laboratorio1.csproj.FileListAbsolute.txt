@@ -1,0 +1,15 @@
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\bin\Debug\net7.0\sa-laboratorio1.exe
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\bin\Debug\net7.0\sa-laboratorio1.deps.json
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\bin\Debug\net7.0\sa-laboratorio1.runtimeconfig.json
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\bin\Debug\net7.0\sa-laboratorio1.dll
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\bin\Debug\net7.0\sa-laboratorio1.pdb
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\obj\Debug\net7.0\sa-laboratorio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\obj\Debug\net7.0\sa-laboratorio1.AssemblyInfoInputs.cache
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\obj\Debug\net7.0\sa-laboratorio1.AssemblyInfo.cs
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\obj\Debug\net7.0\sa-laboratorio1.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\obj\Debug\net7.0\sa-laboratorio1.sourcelink.json
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\obj\Debug\net7.0\sa-laboratorio1.dll
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\obj\Debug\net7.0\refint\sa-laboratorio1.dll
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\obj\Debug\net7.0\sa-laboratorio1.pdb
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\obj\Debug\net7.0\sa-laboratorio1.genruntimeconfig.cache
+C:\WorkSpace\Laboratorio1.NET\sa-laboratorio1\sa-laboratorio1\obj\Debug\net7.0\ref\sa-laboratorio1.dll
